@@ -59,7 +59,7 @@ But fear not, `w` was assigned the correct value which you can confirm by typing
 
 Now if we assign a new value to w it succeeds:
 ```javascript
-> w = 2 // note that without a let or const keyword before it, this assignment an expression which returns a value:
+> w = 2 // note that without a let or const keyword before it, this assignment is an expression which returns a value:
 ⋖ 2
 ```
 
